@@ -43,6 +43,3 @@ downstairs = areas[:6]
 
 # Alternative slicing to create upstairs
 upstairs = areas[-4:]
-
-
-
