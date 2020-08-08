@@ -45,6 +45,3 @@ print(house)
 
 # Print out the type of house
 print(type(house))
-
-
-
