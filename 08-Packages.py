@@ -26,5 +26,3 @@ dist = r * radians(12)
 
 # Print out dist
 print(dist)
-
-
