@@ -37,6 +37,3 @@ areas.reverse()
 
 # Print out areas
 print(areas)
-
-
-
